@@ -1,0 +1,1 @@
+alert("folosirea site-ului nu se recomanda minorilor!");
